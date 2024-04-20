@@ -1,0 +1,8 @@
+# Ignore everything...
+**
+
+# ... except HTML, JSON, Bash and images
+!*.html
+!*.json
+!*.sh
+!*.png
